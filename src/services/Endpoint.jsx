@@ -16,7 +16,7 @@
 
 
 import axios from 'axios'
-export const BaseUrl = 'https://hostback-2.onrender.com/'
+export const BaseUrl = 'https://hostback-3.onrender.com'
 
 const instance = axios.create({
     baseURL:BaseUrl,
